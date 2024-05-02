@@ -5,7 +5,7 @@ This compliance policy checks whether the Defender Antivirus exclusions contain 
 
 ## Intune Configuration Policy
 
-Defender Antivirus confgigration settings is configured within the endpoint protection Antivirus policy.
+Defender Antivirus configuration settings is configured within the endpoint protection Antivirus policy.
 Endpoint security | Antivirus
 
 ## Intune Compliance Detection Script
